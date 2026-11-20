@@ -1,0 +1,6 @@
+{
+  "name": "ClutchLine",
+  "description": "Esports scouting, pressure analytics, rank verification, tournament hosting, and team coordination platform for gaming organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
